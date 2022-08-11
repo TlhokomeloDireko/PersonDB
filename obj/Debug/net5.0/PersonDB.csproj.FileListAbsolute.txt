@@ -1,0 +1,172 @@
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\bin\Debug\net5.0\PersonDB.exe
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\bin\Debug\net5.0\PersonDB.deps.json
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\bin\Debug\net5.0\PersonDB.runtimeconfig.json
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\bin\Debug\net5.0\PersonDB.runtimeconfig.dev.json
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\bin\Debug\net5.0\PersonDB.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\bin\Debug\net5.0\ref\PersonDB.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\bin\Debug\net5.0\PersonDB.pdb
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\obj\Debug\net5.0\PersonDB.csproj.AssemblyReference.cache
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\obj\Debug\net5.0\PersonDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\obj\Debug\net5.0\PersonDB.AssemblyInfoInputs.cache
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\obj\Debug\net5.0\PersonDB.AssemblyInfo.cs
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\obj\Debug\net5.0\PersonDB.csproj.CoreCompileInputs.cache
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\obj\Debug\net5.0\PersonDB.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\obj\Debug\net5.0\ref\PersonDB.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\obj\Debug\net5.0\PersonDB.pdb
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\UNIT 7\0.Code\PersonDB\obj\Debug\net5.0\PersonDB.genruntimeconfig.cache
+D:\PersonDB\bin\Debug\net5.0\PersonDB.exe
+D:\PersonDB\bin\Debug\net5.0\PersonDB.deps.json
+D:\PersonDB\bin\Debug\net5.0\PersonDB.runtimeconfig.json
+D:\PersonDB\bin\Debug\net5.0\PersonDB.runtimeconfig.dev.json
+D:\PersonDB\bin\Debug\net5.0\PersonDB.dll
+D:\PersonDB\bin\Debug\net5.0\ref\PersonDB.dll
+D:\PersonDB\bin\Debug\net5.0\PersonDB.pdb
+D:\PersonDB\bin\Debug\net5.0\Humanizer.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\PersonDB\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\PersonDB\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\PersonDB\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\PersonDB\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\PersonDB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\PersonDB\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\PersonDB\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\PersonDB\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\PersonDB\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\PersonDB\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\PersonDB\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\PersonDB\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\PersonDB\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\PersonDB\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\PersonDB\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\PersonDB\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\PersonDB\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\PersonDB\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\PersonDB\obj\Debug\net5.0\PersonDB.csproj.AssemblyReference.cache
+D:\PersonDB\obj\Debug\net5.0\PersonDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonDB\obj\Debug\net5.0\PersonDB.AssemblyInfoInputs.cache
+D:\PersonDB\obj\Debug\net5.0\PersonDB.AssemblyInfo.cs
+D:\PersonDB\obj\Debug\net5.0\PersonDB.csproj.CoreCompileInputs.cache
+D:\PersonDB\obj\Debug\net5.0\PersonDB.dll
+D:\PersonDB\obj\Debug\net5.0\ref\PersonDB.dll
+D:\PersonDB\obj\Debug\net5.0\PersonDB.pdb
+D:\PersonDB\obj\Debug\net5.0\PersonDB.genruntimeconfig.cache
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\PersonDB.exe
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\PersonDB.deps.json
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\PersonDB.runtimeconfig.json
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\PersonDB.runtimeconfig.dev.json
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\PersonDB.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\ref\PersonDB.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\PersonDB.pdb
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.csproj.AssemblyReference.cache
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.AssemblyInfoInputs.cache
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.AssemblyInfo.cs
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.csproj.CoreCompileInputs.cache
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\obj\Debug\net5.0\ref\PersonDB.dll
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.pdb
+C:\Users\Tlhokomelo\Documents\MEGAsync\Courses\ITC\Year_3\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.genruntimeconfig.cache
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\PersonDB.exe
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\PersonDB.deps.json
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\PersonDB.runtimeconfig.json
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\PersonDB.runtimeconfig.dev.json
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\PersonDB.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\ref\PersonDB.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\PersonDB.pdb
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Humanizer.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\00. MegaSync\SOD216C\PersonDB\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\00. MegaSync\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.csproj.AssemblyReference.cache
+C:\00. MegaSync\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\00. MegaSync\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.AssemblyInfoInputs.cache
+C:\00. MegaSync\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.AssemblyInfo.cs
+C:\00. MegaSync\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.csproj.CoreCompileInputs.cache
+C:\00. MegaSync\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.dll
+C:\00. MegaSync\SOD216C\PersonDB\obj\Debug\net5.0\ref\PersonDB.dll
+C:\00. MegaSync\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.pdb
+C:\00. MegaSync\SOD216C\PersonDB\obj\Debug\net5.0\PersonDB.genruntimeconfig.cache
